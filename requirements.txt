@@ -1,0 +1,7 @@
+django
+black
+flake8
+python-dotenv
+pytest-django
+celery
+redis
